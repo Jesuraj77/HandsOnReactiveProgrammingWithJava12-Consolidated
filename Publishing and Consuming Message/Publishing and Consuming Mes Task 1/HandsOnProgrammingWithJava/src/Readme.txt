@@ -1,0 +1,1 @@
+Write the program to create a subscriber and handle errors in subscriber in java using Eclipse

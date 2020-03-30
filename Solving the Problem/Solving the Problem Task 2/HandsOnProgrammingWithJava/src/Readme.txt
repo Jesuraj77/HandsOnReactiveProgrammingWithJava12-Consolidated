@@ -1,0 +1,1 @@
+Write the program for generating random stock and create a publisher that publishes N random stocks in java using Eclipse

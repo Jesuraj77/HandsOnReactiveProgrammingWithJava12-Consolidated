@@ -1,0 +1,1 @@
+Write the program for creating StockNameEndsSubscriber using StockNameEndsSubscriber for processing transformed messages and implementing subscriber with specific generic type in java using Eclipse
